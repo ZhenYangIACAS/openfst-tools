@@ -1,7 +1,13 @@
+# Makefile
+# 
+# used b/c every one has make and everyone can probably modify this Makefile to suite their specific system requirements
+#
+# chris taylor
+#
 CC=g++
 LIBS=-ldl -lfst
 OUT=fstprintpaths
-EXTRA= # -I -L
+EXTRA= # add any -I -L modifications here...
 
 OBJS=fstprintpaths.o
 

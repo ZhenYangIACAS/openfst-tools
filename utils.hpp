@@ -1,3 +1,12 @@
+/*
+
+utils.hpp
+
+contains reusable, and generically suited functions for reuse
+
+author: chris taylor
+
+*/
 #ifndef __OPENFSTTOOLSUTILS__
 #define __OPENFSTTOOLSUTILS__
 
