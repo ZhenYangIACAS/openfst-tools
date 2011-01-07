@@ -4,15 +4,13 @@ OpenFst Tools
 
 This is a collection of useful tools put together for use with the OpenFst (http://www.openfst.org) toolkit.
 
-The collection contains some code found on the OpenFst forum. 
+The collection contains some code found on the OpenFst forum. Currently considering offering additional tools found in lextools.
 
 Where the forum provided information, a link to said forum article is provided.
 
 This code was licensed under the Apache license that OpenFst is released under.
 
-If you have any recommendations, ideas, or comments, please feel free to contact me under the google code page related to this collection.
-
-Currently considering offering additional tools found in lextools.
+If you have any recommendations, ideas, or comments, please feel free to contact the google code page related to this collection.
 
 Chris Taylor
 http://code.google.com/p/openfst-tools/
