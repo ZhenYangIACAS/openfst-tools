@@ -1,4 +1,4 @@
-#labels finitestate
+#labels Phase-Design
 #openfst-tool plan
 
 = Plan =
