@@ -1,3 +1,12 @@
+/*
+
+utils.cpp
+
+contains reusable, and generically suited functions for reuse
+
+author: chris taylor
+
+*/
 #include "utils.hpp"    
 
 #include <iostream>
