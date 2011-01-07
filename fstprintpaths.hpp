@@ -1,6 +1,6 @@
 /*
 
-fstprintpaths.cpp
+fstprintpaths.hpp
 
 traverses an fst and prints out all of the paths in that fst along with the costs.
 
