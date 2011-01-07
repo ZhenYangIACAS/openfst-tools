@@ -1,3 +1,15 @@
+/*
+
+fstprintpath-main.cpp
+
+split out the main function call for fstprintpath
+
+author: chris taylor
+
+TODO: better support for command line arguments.
+
+*/
+
 #include <string>
 #include "fstprintpaths.hpp"
 
