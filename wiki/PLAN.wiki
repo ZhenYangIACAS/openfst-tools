@@ -1,0 +1,6 @@
+#labels finitestate
+#openfst-tool plan
+
+= Plan =
+
+Build small suite of programs (software codes) to reflect the capabilities of lextools.
